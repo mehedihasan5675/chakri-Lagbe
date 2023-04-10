@@ -10,6 +10,8 @@
     "jobResponsibility": "Design, develop, and test software applications. Collaborate with cross-functional teams. Debug and troubleshoot code. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 2 years of experience in software engineering.",
+    "email": "john.doe@gmail.com",
+    "phone": "123-456-7890",
     "jobCategory": {
       "onsite": true,
       "remote": true,
@@ -28,6 +30,8 @@
     "jobResponsibility": "Responsibilities include:- Develop and execute marketing plans to support our brands- Analyze market trends and customer insights to inform marketing strategies- Collaborate with cross-functional teams to develop and launch new products- Manage budgets and allocate resources effectively.",
     "educationalRequirement": "Bachelor's degree in Marketing, Business Administration or related field.",
     "experience": "Minimum of 5 years of experience in marketing, with a focus on brand management.",
+    "email": "jane.doe@yahoo.com",
+    "phone": "234-567-8901",
     "jobCategory": {
       "onsite": false,
       "remote": true,
@@ -45,6 +49,8 @@
     "jobResponsibility": "Analyze large datasets to identify patterns and trends. Develop predictive models. Collaborate with cross-functional teams. Communicate findings. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Master's degree in Data Science, Statistics, or related field.",
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
+    "email": "bob.smith@hotmail.com",
+    "phone": "345-678-9012",
     "jobCategory": {
       "onsite": true,
       "remote": false,
@@ -62,6 +68,8 @@
     "jobResponsibility": "Drive the development of innovative products. Work closely with cross-functional teams. Own the product roadmap. Communicate with stakeholders. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Bachelor's degree in Computer Science, Engineering, or related field.",
     "experience": "Minimum of 5 years of experience in product management.",
+    "email": "sara.jackson@outlook.com",
+    "phone": "456-789-0123",
     "jobCategory": {
       "onsite": true,
       "remote": true,
@@ -79,6 +87,8 @@
     "jobResponsibility": "Responsibilities include:- Designing and developing high-quality mobile applications that meet the needs of our users- Working closely with cross-functional teams to ensure successful product delivery- Staying up-to-date with emerging trends and technologies in mobile development.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 3 years of experience in iOS development.",
+    "email": "tom.wilson@gmail.com",
+    "phone": "567-890-1234",
     "jobCategory": {
       "onsite": true,
       "remote": false,
@@ -96,6 +106,8 @@
     "jobResponsibility": "Responsibilities include:- Developing software solutions that enable our electric vehicles to operate safely and efficiently- Collaborating with cross-functional teams to identify user needs and translate them into technical requirements- Debugging and troubleshooting code to ensure it meets Tesla's high standards for quality and performance.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 2 years of experience in software engineering.",
+    "email": "amy.chen@yahoo.com",
+    "phone": "678-901-2345",
     "jobCategory": {
       "onsite": true,
       "remote": true,
@@ -113,6 +125,8 @@
     "jobResponsibility": "Responsibilities include:- Defining product requirements and driving the development of AR/VR technologies- Collaborating with cross-functional teams to bring products to market and drive user adoption- Conducting market research to identify user needs and inform product development.",
     "educationalRequirement": "Bachelor's degree in Computer Science, Electrical Engineering, or related field.",
     "experience": "Minimum of 5 years of experience in product management.",
+    "email": "samuel.green@outlook.com",
+    "phone": "789-012-3456",
     "jobCategory": {
       "onsite": false,
       "remote": true,
@@ -130,6 +144,8 @@
     "jobResponsibility": "Responsibilities include:- Analyzing large datasets to identify patterns and trends- Developing predictive models to help us better understand user behavior and preferences- Collaborating with cross-functional teams to identify business opportunities and develop solutions- Communicating findings and recommendations to stakeholders across the organization.",
     "educationalRequirement": "Master's degree in Data Science, Statistics, or related field.",
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
+    "email": "jennifer.kim@gmail.com",
+    "phone": "890-123-4567",
     "jobCategory": {
       "onsite": true,
       "remote": false,
@@ -147,6 +163,8 @@
     "jobResponsibility": "Responsibilities include:- Coordinating the flow of goods from suppliers to stores- Optimizing inventory levels- Improving delivery times and reducing costs through supplier management- Collaborating with cross-functional teams to identify opportunities for process improvement- Staying up-to-date with emerging trends and technologies in supply chain management",
     "educationalRequirement": "Bachelor's degree in Supply Chain Management, Business Administration, or related field.",
     "experience": "Minimum of 5 years of experience in supply chain management.",
+    "email": "lukamadric@gmail.com",
+    "phone": "154-123-6048",
     "jobCategory": {
       "onsite": false,
       "remote": true,

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Software Development",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190902/original/pngtree-application-development-vector-isometric-illustrations-png-image_4386178.jpg",
+    "seats": 70
+  },
+  {
+    "title": "Marketing & Sales",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-sales-label-tags--shopping-vector-png-image_3552719.jpg",
+    "seats": 60
+  },
+  {
+    "title": "Account & Finance",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220430/original/pngtree-banking-service-concept-in-3d-isometric-outline-design-bank-client-pays-png-image_7601736.png",
+    "seats": 80
+  },
+  {
+    "title": "Creative Design",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-cosmic-planet-sun-moon-star-popular-gradient-effect-creative-design-and-png-image_4073538.jpg",
+    "seats": 55
+  },
+  {
+    "title": "Engineering",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-worker-looking-at-engineering-drawing-png-material-at-construction-site-png-image_4686804.jpg",
+    "seats": 65
+  },
+  {
+    "title": "Financial Analyst",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190905/original/pngtree-trend-analysis-cartoon-illustration-png-image_4525135.jpg",
+    "seats": 90
+  },
+  {
+    "title": "Customer Service",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20190924/original/pngtree-customer-service-call-center-scenario-png-image_4825817.jpg",
+    "seats": 75
+  },
+  {
+    "title": "Operations",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220601/original/pngtree-all-center-service-call-customer-png-image_7817039.png",
+    "seats": 85
+  },
+  {
+    "title": "Mechanical Engineer",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20230217/original/pngtree-motor-engine-illustration-art-picture-png-image_8957821.png",
+    "seats": 100
+  }
+]
