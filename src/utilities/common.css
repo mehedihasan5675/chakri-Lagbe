@@ -4,3 +4,6 @@
 .btn {
   @apply bg-gradient-to-r from-indigo-400  to-purple-500 px-3 md:px-4 py-2 md:py-3 text-white rounded-md font-medium tracking-wider;
 }
+.btn2 {
+  @apply bg-gradient-to-r from-indigo-500  to-violet-500 px-3 md:px-4 py-2 md:py-3 text-white rounded-md font-medium tracking-wider;
+}
