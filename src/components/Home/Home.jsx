@@ -21,7 +21,7 @@ const Home = () => {
     const handleSeeAll=()=>{
         setSeeAll(true)
     }
-    console.log(seeAll);
+    // console.log(seeAll);
     return (
         <>
         {/* Home page Banner part start */}
@@ -43,7 +43,7 @@ const Home = () => {
 
         <div className="main_container  md:py-20 py-10 ">
             <div className="text-center">
-            <h1 className="font-bold text-2xl md:text-4xl">Job Category List</h1>
+            <h1 className="font-bold text-2xl md:text-4xl">Job Category List</h1> 
             <p className="my-5 text-gray-400 tracking-wider">Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
 

@@ -2,6 +2,7 @@ import { CurrencyDollarIcon, MapPinIcon } from '@heroicons/react/24/solid';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../../utilities/common.css';
+import { setDataInLocal } from '../../utilities/fakedb';
 
 const FeaturedJob = ({job}) => {
     const {id,companyName,jobTitle,location,salaryRange,jobCategory,companyLogo}=job
@@ -14,7 +15,10 @@ for(const cate of jobCategory){
     }
     }
 }
-
+const handleViewDetails=(id)=>{
+    setDataInLocal(id)
+    // console.log('id,',id);
+}
 
     return (
         <>
@@ -31,7 +35,7 @@ for(const cate of jobCategory){
                     <span ><MapPinIcon height={18} className='inline-block mb-1 text-green-400 '/>{location}</span>
                     <span><CurrencyDollarIcon height={18} className='inline-block mb-1  text-green-400 '/>{salaryRange}</span>
                 </div>
-                <Link><button className='btn'>View Details</button></Link>
+                <Link  to="/job-details"><button className='btn' onClick={()=>handleViewDetails(id)}>View Details</button></Link>
             </div>
         </>
     );
