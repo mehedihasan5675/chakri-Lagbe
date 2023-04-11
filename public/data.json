@@ -1,22 +1,28 @@
 [
   {
     "id": 1234515891,
-    "companyName": "Google",
+    "companyName": "Google LLC",
     "jobTitle": "Software Engineer",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
     "location": "Mountain View, CA",
-    "salaryRange": "$100,000 - $200,000",
+    "salaryRange": "$100K - $200K",
     "jobDescription": "Seeking a talented software engineer to design and develop high-quality applications. Work closely with cross-functional teams and debug code to meet Google's standards.",
     "jobResponsibility": "Design, develop, and test software applications. Collaborate with cross-functional teams. Debug and troubleshoot code. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 2 years of experience in software engineering.",
     "email": "john.doe@gmail.com",
     "phone": "123-456-7890",
-    "jobCategory": {
-      "onsite": true,
-      "remote": true,
-      "fulltime": false
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": false
+      }
+    ]
   },
 
   {
@@ -25,18 +31,24 @@
     "jobTitle": "Marketing Manager",
     "companyLogo": "https://www.pngfind.com/pngs/m/346-3466918_logo-nestl-hd-png-download.png",
     "location": "Los Angeles, CA",
-    "salaryRange": "$90,000 - $120,000",
+    "salaryRange": "$90K - $120K",
     "jobDescription": "Nestle is seeking a skilled Marketing Manager to lead our efforts in developing and executing marketing strategies for our brands. The ideal candidate will be creative, data-driven, and able to work collaboratively across teams to drive brand awareness and growth. ",
     "jobResponsibility": "Responsibilities include:- Develop and execute marketing plans to support our brands- Analyze market trends and customer insights to inform marketing strategies- Collaborate with cross-functional teams to develop and launch new products- Manage budgets and allocate resources effectively.",
     "educationalRequirement": "Bachelor's degree in Marketing, Business Administration or related field.",
     "experience": "Minimum of 5 years of experience in marketing, with a focus on brand management.",
     "email": "jane.doe@yahoo.com",
     "phone": "234-567-8901",
-    "jobCategory": {
-      "onsite": false,
-      "remote": true,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": false
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": true
+      }
+    ]
   },
   {
     "id": 2345678903,
@@ -44,18 +56,24 @@
     "jobTitle": "Data Scientist",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
     "location": "Seattle, WA",
-    "salaryRange": "$90,000 - $150,000",
+    "salaryRange": "$90K - $150K",
     "jobDescription": "Talented data scientist needed to analyze large datasets and develop predictive models that drive growth and innovation. Collaborate with cross-functional teams and communicate findings.",
     "jobResponsibility": "Analyze large datasets to identify patterns and trends. Develop predictive models. Collaborate with cross-functional teams. Communicate findings. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Master's degree in Data Science, Statistics, or related field.",
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
     "email": "bob.smith@hotmail.com",
     "phone": "345-678-9012",
-    "jobCategory": {
-      "onsite": true,
-      "remote": false,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": false
+      },
+      {
+        "fulltime": true
+      }
+    ]
   },
   {
     "id": 3456789014,
@@ -63,18 +81,24 @@
     "jobTitle": "Product Manager",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
     "location": "Redmond, WA",
-    "salaryRange": "$120,000 - $180,000",
+    "salaryRange": "$120K - $180K",
     "jobDescription": "Join our team as a product manager to drive the development of innovative products that solve real customer problems. Work closely with cross-functional teams and own the product roadmap.",
     "jobResponsibility": "Drive the development of innovative products. Work closely with cross-functional teams. Own the product roadmap. Communicate with stakeholders. Stay up-to-date with emerging trends.",
     "educationalRequirement": "Bachelor's degree in Computer Science, Engineering, or related field.",
     "experience": "Minimum of 5 years of experience in product management.",
     "email": "sara.jackson@outlook.com",
     "phone": "456-789-0123",
-    "jobCategory": {
-      "onsite": true,
-      "remote": true,
-      "fulltime": false
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": false
+      }
+    ]
   },
   {
     "id": 2345671095,
@@ -82,18 +106,24 @@
     "jobTitle": "iOS Developer",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
     "location": "Cupertino, CA",
-    "salaryRange": "$110,000 - $160,000",
+    "salaryRange": "$110K - $160K",
     "jobDescription": "We are looking for an experienced iOS developer to join our team at Apple. As an iOS developer, you will be responsible for designing and developing high-quality mobile applications that meet the needs of our users. You will work closely with cross-functional teams to ensure successful product delivery.",
     "jobResponsibility": "Responsibilities include:- Designing and developing high-quality mobile applications that meet the needs of our users- Working closely with cross-functional teams to ensure successful product delivery- Staying up-to-date with emerging trends and technologies in mobile development.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 3 years of experience in iOS development.",
     "email": "tom.wilson@gmail.com",
     "phone": "567-890-1234",
-    "jobCategory": {
-      "onsite": true,
-      "remote": false,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": false
+      },
+      {
+        "fulltime": true
+      }
+    ]
   },
   {
     "id": 1238904566,
@@ -101,18 +131,24 @@
     "jobTitle": "Software Engineer",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
     "location": "Palo Alto, CA",
-    "salaryRange": "$120,000 - $200,000",
+    "salaryRange": "$120K - $200K",
     "jobDescription": "We are seeking a talented software engineer to join our team at Tesla. As a software engineer at Tesla, you will be responsible for developing software solutions that enable our electric vehicles to operate safely and efficiently. ",
     "jobResponsibility": "Responsibilities include:- Developing software solutions that enable our electric vehicles to operate safely and efficiently- Collaborating with cross-functional teams to identify user needs and translate them into technical requirements- Debugging and troubleshooting code to ensure it meets Tesla's high standards for quality and performance.",
     "educationalRequirement": "Bachelor's degree in Computer Science or related field.",
     "experience": "Minimum of 2 years of experience in software engineering.",
     "email": "amy.chen@yahoo.com",
     "phone": "678-901-2345",
-    "jobCategory": {
-      "onsite": true,
-      "remote": true,
-      "fulltime": false
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": false
+      }
+    ]
   },
   {
     "id": 6789012347,
@@ -120,18 +156,24 @@
     "jobTitle": "Product Manager - AR/VR",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
     "location": "Menlo Park, CA",
-    "salaryRange": "$120,000 - $180,000",
+    "salaryRange": "$120K - $180K",
     "jobDescription": "Meta is seeking an experienced Product Manager to drive the development of AR/VR technologies. You will work closely with our engineering and design teams to define product requirements and ensure that our products meet the needs of our users. Additionally, you will collaborate with cross-functional teams to bring products to market and drive user adoption.",
     "jobResponsibility": "Responsibilities include:- Defining product requirements and driving the development of AR/VR technologies- Collaborating with cross-functional teams to bring products to market and drive user adoption- Conducting market research to identify user needs and inform product development.",
     "educationalRequirement": "Bachelor's degree in Computer Science, Electrical Engineering, or related field.",
     "experience": "Minimum of 5 years of experience in product management.",
     "email": "samuel.green@outlook.com",
     "phone": "789-012-3456",
-    "jobCategory": {
-      "onsite": false,
-      "remote": true,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": false
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": true
+      }
+    ]
   },
   {
     "id": 4567890128,
@@ -139,18 +181,24 @@
     "jobTitle": "Data Scientist",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
     "location": "Los Gatos, CA",
-    "salaryRange": "$130,000 - $180,000",
+    "salaryRange": "$130K - $180K",
     "jobDescription": "We are looking for a talented data scientist to join our team at Netflix. As a data scientist at Netflix, you will be responsible for analyzing large datasets and developing predictive models that help us better understand user behavior and preferences.",
     "jobResponsibility": "Responsibilities include:- Analyzing large datasets to identify patterns and trends- Developing predictive models to help us better understand user behavior and preferences- Collaborating with cross-functional teams to identify business opportunities and develop solutions- Communicating findings and recommendations to stakeholders across the organization.",
     "educationalRequirement": "Master's degree in Data Science, Statistics, or related field.",
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
     "email": "jennifer.kim@gmail.com",
     "phone": "890-123-4567",
-    "jobCategory": {
-      "onsite": true,
-      "remote": false,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": true
+      },
+      {
+        "remote": false
+      },
+      {
+        "fulltime": true
+      }
+    ]
   },
   {
     "id": 1678234599,
@@ -158,17 +206,23 @@
     "jobTitle": "Supply Chain Manager",
     "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg",
     "location": "Bentonville, AR",
-    "salaryRange": "$90,000 - $120,000",
+    "salaryRange": "$90K - $120K",
     "jobDescription": "Walmart is seeking a skilled Supply Chain Manager to oversee our distribution network. You will be responsible for coordinating the flow of goods from suppliers to our stores and ensuring that our inventory is optimized. Additionally, you will work closely with our suppliers to improve delivery times and reduce costs.",
     "jobResponsibility": "Responsibilities include:- Coordinating the flow of goods from suppliers to stores- Optimizing inventory levels- Improving delivery times and reducing costs through supplier management- Collaborating with cross-functional teams to identify opportunities for process improvement- Staying up-to-date with emerging trends and technologies in supply chain management",
     "educationalRequirement": "Bachelor's degree in Supply Chain Management, Business Administration, or related field.",
     "experience": "Minimum of 5 years of experience in supply chain management.",
     "email": "lukamadric@gmail.com",
     "phone": "154-123-6048",
-    "jobCategory": {
-      "onsite": false,
-      "remote": true,
-      "fulltime": true
-    }
+    "jobCategory": [
+      {
+        "onsite": false
+      },
+      {
+        "remote": true
+      },
+      {
+        "fulltime": true
+      }
+    ]
   }
 ]
