@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <div className='md:min-h-[calc(100vh-64px)]'>
+      <div className='min-h-[calc(100vh-64px)]'>
       <Outlet></Outlet>
       </div>
       <Footer></Footer>

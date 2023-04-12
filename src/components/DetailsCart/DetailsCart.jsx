@@ -1,12 +1,16 @@
 import { CalendarIcon, CurrencyDollarIcon, MapPinIcon, PhoneIcon, ShareIcon } from '@heroicons/react/24/solid';
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import { addToDb } from '../../utilities/fakedb';
+
 const DetailsCart = ({singleJob}) => {
     const {jobTitle,email,salaryRange,phone,location,id}=singleJob
     console.log(singleJob);
     const handleApplyBtn=(id)=>{
         addToDb(id)
+        toast.success("Application submited Successfully!")
     }
     return (
     <>
@@ -29,8 +33,10 @@ const DetailsCart = ({singleJob}) => {
             
         </div>
         <div className='mt-5 '>
-            <Link to="/applied-jobs"><button onClick={()=>handleApplyBtn(id)} className='btn w-full'>Apply Now</button></Link>
+            <Link to=""><button onClick={()=>handleApplyBtn(id)} className='btn w-full'>Apply Now</button></Link>
         </div>
+        <ToastContainer />
+
         </>
     );
 };
