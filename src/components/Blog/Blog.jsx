@@ -33,7 +33,26 @@ By using custom hooks, we can abstract complex logic into reusable functions, pr
 
 
 
+                <div tabIndex={0} className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
+                    <div className="collapse-title text-xl font-medium">
+                        3.What is useRef?
+                    </div>
+                    <div className="collapse-content">
+                        <p>useRef is a feature of React that allows  to create a special type of variable that can store data that our component can't re-render when it changes. This is often used for things like directly accessing and modifying DOM elements, or storing values when we don't want to trigger re-renders.It does not trigger a re-render when the current value is updated.  It's like having a special container that holds data without affecting how our component looks or behaves.</p>
+                    </div>
+                </div>
 
+
+
+
+                <div tabIndex={0} className="collapse collapse-plus border border-base-300 bg-base-100 my-5 rounded-box">
+                    <div className="collapse-title text-xl font-medium">
+                    4.What is useMemo?
+                    </div>
+                    <div className="collapse-content">
+                        <p>useMemo is a hook in React that is used to memoize the result of a computation and only update it when the dependencies change. It helps to optimize performance by avoiding unnecessary re-computations of expensive operations. This can be helpful when we have expensive calculations or operations in our component that are not required to be recalculated on every render, but only when certain dependencies change.</p>
+                    </div>
+                </div>
 
                 
             </div>
