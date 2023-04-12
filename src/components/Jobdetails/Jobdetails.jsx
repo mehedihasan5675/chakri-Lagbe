@@ -32,7 +32,7 @@ const Jobdetails = () => {
                 <DetailsCart singleJob={singleJob}></DetailsCart>
                 </div>
             </div>
-            <div className='text-center my-10 sticky bottom-0 left- inline-block main_container'>
+            <div className='text-center my-10 sticky bottom-5 left- inline-block main_container'>
             <button onClick={handleNavigate} className='btn  rounded-full  opacity-90 text-sm md:text-xl font-semibold'>Back</button>
             </div>
         </>

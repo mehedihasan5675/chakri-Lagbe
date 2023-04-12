@@ -1,5 +1,6 @@
 import { CalendarIcon, CurrencyDollarIcon, MapPinIcon, PhoneIcon, ShareIcon } from '@heroicons/react/24/solid';
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { addToDb } from '../../utilities/fakedb';
 const DetailsCart = ({singleJob}) => {
     const {jobTitle,email,salaryRange,phone,location,id}=singleJob
@@ -28,7 +29,7 @@ const DetailsCart = ({singleJob}) => {
             
         </div>
         <div className='mt-5 '>
-            <button onClick={()=>handleApplyBtn(id)} className='btn w-full'>Apply Now</button>
+            <Link to="/applied-jobs"><button onClick={()=>handleApplyBtn(id)} className='btn w-full'>Apply Now</button></Link>
         </div>
         </>
     );

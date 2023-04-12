@@ -12,17 +12,8 @@
     "experience": "Minimum of 2 years of experience in software engineering.",
     "email": "john.doe@gmail.com",
     "phone": "123-456-7890",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": false
-      }
-    ]
+
+    "jobCategory": ["remote", "onsite"]
   },
 
   {
@@ -38,17 +29,7 @@
     "experience": "Minimum of 5 years of experience in marketing, with a focus on brand management.",
     "email": "jane.doe@yahoo.com",
     "phone": "234-567-8901",
-    "jobCategory": [
-      {
-        "onsite": false
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": true
-      }
-    ]
+    "jobCategory": ["remote", "fulltime"]
   },
   {
     "id": 2345678903,
@@ -63,17 +44,7 @@
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
     "email": "bob.smith@hotmail.com",
     "phone": "345-678-9012",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": false
-      },
-      {
-        "fulltime": true
-      }
-    ]
+    "jobCategory": ["fulltime", "onsite"]
   },
   {
     "id": 3456789014,
@@ -88,17 +59,7 @@
     "experience": "Minimum of 5 years of experience in product management.",
     "email": "sara.jackson@outlook.com",
     "phone": "456-789-0123",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": false
-      }
-    ]
+    "jobCategory": ["remote", "onsite"]
   },
   {
     "id": 2345671095,
@@ -113,17 +74,7 @@
     "experience": "Minimum of 3 years of experience in iOS development.",
     "email": "tom.wilson@gmail.com",
     "phone": "567-890-1234",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": false
-      },
-      {
-        "fulltime": true
-      }
-    ]
+    "jobCategory": ["fulltime", "onsite"]
   },
   {
     "id": 1238904566,
@@ -138,17 +89,7 @@
     "experience": "Minimum of 2 years of experience in software engineering.",
     "email": "amy.chen@yahoo.com",
     "phone": "678-901-2345",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": false
-      }
-    ]
+    "jobCategory": ["remote", "onsite"]
   },
   {
     "id": 6789012347,
@@ -163,17 +104,7 @@
     "experience": "Minimum of 5 years of experience in product management.",
     "email": "samuel.green@outlook.com",
     "phone": "789-012-3456",
-    "jobCategory": [
-      {
-        "onsite": false
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": true
-      }
-    ]
+    "jobCategory": ["remote", "fulltime"]
   },
   {
     "id": 4567890128,
@@ -188,17 +119,7 @@
     "experience": "Minimum of 3 years of experience in data analysis or related field.",
     "email": "jennifer.kim@gmail.com",
     "phone": "890-123-4567",
-    "jobCategory": [
-      {
-        "onsite": true
-      },
-      {
-        "remote": false
-      },
-      {
-        "fulltime": true
-      }
-    ]
+    "jobCategory": ["fulltime", "onsite"]
   },
   {
     "id": 1678234599,
@@ -213,16 +134,7 @@
     "experience": "Minimum of 5 years of experience in supply chain management.",
     "email": "lukamadric@gmail.com",
     "phone": "154-123-6048",
-    "jobCategory": [
-      {
-        "onsite": false
-      },
-      {
-        "remote": true
-      },
-      {
-        "fulltime": true
-      }
-    ]
+
+    "jobCategory": ["remote", "fulltime"]
   }
 ]
